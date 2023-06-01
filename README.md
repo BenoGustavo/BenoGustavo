@@ -5,10 +5,6 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=BenoGustavo/&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<a href="https://github.com/Gurupreet">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenoGustavo&theme=for-the-badge&hide_langs_below=1" />
-</a>
-
 <p>
 
 Studing in **Faculdade Cesusc**<br/>
