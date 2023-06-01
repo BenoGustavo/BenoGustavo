@@ -3,7 +3,7 @@
 ### Hello there. 👋👋
 ### My name is Gustavo, i'm a student tring to learn new things...
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=BenoGustavo&color=f8efd4&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=BenoGustavo/BenoGustavo/&color=f8efd4&style=for-the-badge&logo=GitHub">
 
 <p>
 
