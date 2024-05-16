@@ -12,14 +12,11 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A back-end developer
 - I'm learning about web and front-end development
 - Analysis and systems development Student at Cesusc
-- Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my lindkedin](https://www.linkedin.com/in/gustavo-gorges-016b21269/)
 
 <br><br>
@@ -63,9 +60,10 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br>
-- **Frameworks and libs: **:
 
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+- **Frameworks and libs**:
+
+    ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   
 
 <br>
