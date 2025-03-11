@@ -14,8 +14,8 @@
 
 <br>
 
-- A back-end developer
-- I'm learning about web and front-end development
+- I'm a full stack developer
+- I'm learning about software arch and clean code
 - Analysis and systems development Student at Cesusc
 - I’m currently open for an Intern or a new job opportunity, this is [my lindkedin](https://www.linkedin.com/in/gustavo-gorges-016b21269/)
 
