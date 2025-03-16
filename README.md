@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hello there, my name is Gustavo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3472FB&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Gustavo+Gorges;I'm+a+back-end+developer+for+now...;but+i'm+learning+about+front-end;and+web+development;Analysis+and+systems+development+Student+at+Cesusc;Love+to+learn+new+stuffs+%3C3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3472FB&center=true&vCenter=true&random=false&width=435&lines=My+name+is+Gustavo+Gorges;I'm+a+back-end+developer+for+now...;but+i'm+learning+about+front-end;and+web+development;Analysis+and+systems+development+Student+at+Cesusc;Love+to+learn+new+stuffs+%3C3](https://readme-typing-svg.demolab.com/demo/?duration=4000&pause=800&color=356DFF&center=true&vCenter=true&random=true&lines=I'm+a+passionate+full-stack+dev.;I'm+a+problem+solver.;Sometimes+I+talk+to+a+rubber+duck.;I+turn+coffe+in+to+code.)" alt="Typing SVG" /></a>
 </p>
 
 
