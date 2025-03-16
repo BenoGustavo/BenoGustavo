@@ -1,9 +1,6 @@
 <h1 align="center"><b>Hello there, my name is Gustavo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=356DFF&center=true&vCenter=true&random=true&width=435&lines=I'm+a+passionate+full-stack+dev.;I'm+a+problem+solver.;Sometimes+I+talk+to+a+rubber+duck.;I+turn+coffe+in+to+code." alt="Typing SVG" /></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&color=356DFF&center=true&vCenter=true&random=true&width=435&lines=I'm+a+full-stack+web+developer.;I'm+a+problem+solver.;Sometimes+I+talk+to+a+rubber+duck.;I+turn+coffe+in+to+code.;I've+a+loud+keyboard.;LGTM!)](https://git.io/typing-svg)
 
 <br>
 
